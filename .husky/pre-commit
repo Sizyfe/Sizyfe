@@ -1,0 +1,3 @@
+npm run build
+git add -A
+npm run lint
