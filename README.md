@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋</h1>
 
 <div align="center">
-  <a href="https://deville.dev" target="_blank">
+  <a href="https://sizyffe.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=awesomelists&label=&color=FFF176&logoColor=black&labelColor=&style=for-the-badge" alt="Awesome Lists logo" height="25">
   </a>
   <a href="https://www.linkedin.com/in/l%C3%A9o-deville" target="_blank">
