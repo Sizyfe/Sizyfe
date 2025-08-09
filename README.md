@@ -1,10 +1,10 @@
 <h1 align="center">Bonjour 👋</h1>
 
 <div align="center">
-  <a href="https://sizyffe.fr" target="_blank">
+  <a href="https://leo-deville.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=awesomelists&label=&color=FFF176&logoColor=black&labelColor=&style=for-the-badge" alt="Awesome Lists logo" height="25">
   </a>
-  <a href="https://www.linkedin.com/in/l%C3%A9o-deville" target="_blank">
+  <a href="https://www.linkedin.com/in/leo-deville" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn logo" height="25">
   </a>
 </div>
@@ -12,7 +12,7 @@
 <h3>👩‍💻 About Me</h3>
 
 <p>
-  I'm Léo (aka Sizyffe) from France.
+  I'm Léo (aka Sizyfe) from France.
 </p>
 
 <p>

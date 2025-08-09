@@ -1,4 +1,4 @@
-Contact: mailto:leo@deville.dev
+Contact: mailto:contact@leo-deville.dev
 Expires: 2030-12-31T22:59:00.000Z
 Preferred-Languages: fr, en
-Canonical: https://sizyffe.fr/security.txt
+Canonical: https://leo-deville.dev/security.txt
