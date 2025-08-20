@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn logo" height="25">
   </a>
   <a href="https://www.root-me.org/Sizyfe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Root Me&logo=travisci&label=&color=000000&logoColor=ffffff&labelColor=&style=for-the-badge" alt="Root Me logo" height="25">
+    <img src="https://img.shields.io/static/v1?message=Root+Me&logo=travisci&label=&color=000000&logoColor=ffffff&labelColor=&style=for-the-badge" alt="Root Me logo" height="25">
   </a>
 </div>
 
