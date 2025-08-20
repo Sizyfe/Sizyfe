@@ -67,9 +67,9 @@ aside {
   }
 
   nav ul {
-    column-gap: 0.25rem;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    gap: 0.25rem;
     justify-content: center;
     list-style: none;
     margin: 0;
